@@ -1,0 +1,83 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Massas",
+      "recipes": [
+        {
+          "id": 1,
+          "title": "Macarrão à bolonhesa",
+          "rating": 4,
+          "money": 1,
+          "time": "30 min",
+          "level": "Fácil",
+          "image": "https://img.itdg.com.br/images/recipes/000/302/674/326343/326343_original.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Pizza marguerita",
+          "rating": 5,
+          "money": 2,
+          "time": "2h 30 min",
+          "level": "Médio",
+          "image": "https://i0.wp.com/anamariabraga.globo.com/wp-content/uploads/2020/08/pizza-margherita.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": 3,
+          "title": "Rondelli",
+          "rating": 4,
+          "money": 2,
+          "time": "1h 30 min",
+          "level": "Médio",
+          "image": "https://receidelicia.com.br/wp-content/uploads/2021/03/rondelli-com-massa-de-pastel-1024x576.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Lasanha à bolonhesa",
+          "rating": 5,
+          "money": 3,
+          "time": "1h 30 min",
+          "level": "Fácil",
+          "image": "https://www.sabornamesa.com.br/media/k2/items/cache/d30ee1ca9e879a8474cdf38bba06fa06_XL.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Caldos",
+      "recipes": [
+        {
+          "id": 5,
+          "title": "Caldo de ervilha",
+          "rating": 4,
+          "money": 1,
+          "time": "30 min",
+          "level": "Fácil",
+          "image": "https://img.itdg.com.br/tdg/images/recipes/000/136/774/354084/354084_original.jpg?mode=crop&width=710&height=400"
+        },
+        {
+          "id": 6,
+          "title": "Caldo de abóbora",
+          "rating": 5,
+          "money": 2,
+          "time": "45 min",
+          "level": "Médio",
+          "image": "https://rrmedicos.com.br/wp-content/uploads/2021/11/caldo-de-abobora.jpg"
+        },
+        {
+          "id": 7,
+          "title": "Caldo verde",
+          "rating": 4,
+          "money": 1,
+          "time": "1h",
+          "level": "Médio",
+          "image": "https://receitinhas.com.br/wp-content/uploads/2022/09/Caldo-verde-com-batata-doce.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Natal"
+    }
+  ]
+}
